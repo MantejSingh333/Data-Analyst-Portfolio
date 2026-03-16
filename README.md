@@ -36,8 +36,8 @@ Developed an Excel-based analysis to group students using performance metrics an
 Developed a Python-based analytics workflow in Microsoft Fabric, performing data cleaning, transformation, and exploratory data analysis (EDA) in a cloud environment.
 **Repo link:** https://github.com/MantejSingh333/Data-Analysis-in-Microsoft-Fabric-Python
 
-8. **Data Scraping Projects (Python)**  
-Python project demonstrating web scraping and API data collection using Requests and BeautifulSoup. Extracted data from multiple websites, structured it with Pandas, and exported datasets for analysis.  
+8. **Data Scraping (Python)**  
+Developed a Python project to scrape web and API data, cleaning and structuring it with Pandas, and exporting datasets for further analysis.
 **Repo link:** https://github.com/MantejSingh333/Data-Scraping-Python
 
 ---
