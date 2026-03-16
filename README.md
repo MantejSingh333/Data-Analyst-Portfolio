@@ -21,7 +21,7 @@ Analyzed video game revenue data with SQL, leveraging joins and window functions
 **Repo link:** https://github.com/MantejSingh333/Video-Game-Analysis-SQL
 
 4. **Customer Cost Analysis & Visualization (Python)**  
-Time-series analysis and visualization of cost, revenue, and labor trends for a customer product.  
+Cleaned and processed customer product data in Python, then analyzed and visualized cost, revenue, and labor trends over time using Pandas, Matplotlib, and Seaborn to uncover year-over-year patterns.
 **Repo link:** https://github.com/MantejSingh333/Customer-Cost-Analysis-Visualization-Python
 
 5. **Cost Estimation Model (Excel)**  
