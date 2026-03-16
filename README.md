@@ -29,7 +29,7 @@ Developed an Excel-based cost estimation model for an AI-powered online writing 
 **Repo link:** https://github.com/MantejSingh333/Cost-Estimation-Model-Excel
 
 6. **Balanced Student Groups (Excel)**  
-Created balanced student groups based on performance and communication metrics to improve collaboration dynamics.  
+Developed an Excel-based analysis to group students using performance metrics and communication frequency, creating balanced teams that improve collaboration while anonymizing sensitive data.
 **Repo link:** https://github.com/MantejSingh333/Balanced-Student-Groups-Excel
 
 7. **Data Analysis in Microsoft Fabric (Python)**  
