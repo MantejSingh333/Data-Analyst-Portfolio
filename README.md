@@ -13,7 +13,7 @@ Built an end-to-end data pipeline to clean, standardize, and deduplicate superma
 **Repo link:** https://github.com/MantejSingh333/Supermarket-Product-Deduplication-Knowledge-Graph-Neo4j
 
 2. **E-Commerce Analysis (Power BI)**  
-Dashboard and forecasting project analyzing e-commerce data and delivering actionable business insights.  
+Built an end-to-end Power BI analytics solution for e-commerce data, including cleaning, transformation, modeling, and dashboard visualization, delivering actionable business insights.
 **Repo link:** https://github.com/MantejSingh333/E-Commerce-Analysis-Power-BI
 
 3. **Video Game Analysis (SQL)**  
