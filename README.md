@@ -10,12 +10,10 @@ Click on each project to explore the full repo and see the work in detail.
 
 1. **Supermarket Product Deduplication & Knowledge Graph (Neo4j)**  
 Built an end-to-end data pipeline to clean, standardize, and deduplicate supermarket product data, modeling it into a Neo4j knowledge graph that enables unified product search and cross-retailer price comparison across multiple New Zealand supermarkets.
-
 **Repo link:** https://github.com/MantejSingh333/Supermarket-Product-Deduplication-Knowledge-Graph-Neo4j
 
 3. **E-Commerce Analysis (Power BI)**  
 Built an end-to-end Power BI analytics solution for e-commerce data, including cleaning, transformation, modeling, and dashboard visualization, delivering actionable business insights.
-
 **Repo link:** https://github.com/MantejSingh333/E-Commerce-Analysis-Power-BI
 
 5. **Video Game Analysis (SQL)**  
