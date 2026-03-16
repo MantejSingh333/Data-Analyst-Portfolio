@@ -8,35 +8,35 @@ Click on each project to explore the full repo and see the work in detail.
 
 ## Projects
 
-1. **Neo4j Supermarket Knowledge Graph**  
+1. **Supermarket Product Deduplication & Knowledge Graph (Neo4j)**  
 End-to-end project cleaning, deduplicating, and modeling supermarket product data for cross-store product comparison.  
-**Repo link:** [Insert link here]
+**Repo link:** https://github.com/MantejSingh333/Supermarket-Product-Deduplication-Knowledge-Graph-Neo4j
 
-2. **Power BI E-Commerce Analytics**  
+2. **E-Commerce Analysis (Power BI)**  
 Dashboard and forecasting project analyzing e-commerce data and delivering actionable business insights.  
-**Repo link:** [Insert link here]
+**Repo link:** https://github.com/MantejSingh333/E-Commerce-Analysis-Power-BI
 
-3. **Video Game Revenue Analysis (SQL)**  
+4. **Video Game Analysis (SQL)**  
 SQL analysis identifying top-performing video game genres and revenue-driving titles using joins and window functions.  
-**Repo link:** [Insert link here]
+**Repo link:** https://github.com/MantejSingh333/Video-Game-Analysis-SQL
 
-4. **Python Customer Cost Analysis**  
+5. **Customer Cost Analysis & Visualization (Python)**  
 Time-series analysis and visualization of cost, revenue, and labor trends for a customer product.  
-**Repo link:** [Insert link here]
+**Repo link:** https://github.com/MantejSingh333/Customer-Cost-Analysis-Visualization-Python
 
-5. **Excel Cost Estimation Model – AI Writing Tool**  
+6. **Cost Estimation Model (Excel)**  
 Forecasted operational costs for an AI-powered online writing tool using Excel financial modeling.  
-**Repo link:** [Insert link here]
+**Repo link:** https://github.com/MantejSingh333/Cost-Estimation-Model-Excel
 
-6. **Balanced Student Groups (Excel)**  
+7. **Balanced Student Groups (Excel)**  
 Created balanced student groups based on performance and communication metrics to improve collaboration dynamics.  
 **Repo link:** https://github.com/MantejSingh333/Balanced-Student-Groups-Excel
 
-7. **Data Analysis Using Python in Microsoft Fabric**  
+8. **Data Analysis in Microsoft Fabric (Python)**  
 Performed end-to-end data cleaning, analysis, and transformation in a cloud-based Microsoft Fabric environment.  
-**Repo link:** [Insert link here]
+**Repo link:** https://github.com/MantejSingh333/Data-Analysis-in-Microsoft-Fabric-Python
 
 ---
 
 ## Contact
-- **LinkedIn:** [Insert your LinkedIn here]  
+- **LinkedIn:** https://www.linkedin.com/in/mantej-singh-a59049335/
