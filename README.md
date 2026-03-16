@@ -28,9 +28,9 @@ Time-series analysis and visualization of cost, revenue, and labor trends for a 
 Forecasted operational costs for an AI-powered online writing tool using Excel financial modeling.  
 **Repo link:** [Insert link here]
 
-6. **Balanced Group Assignment Using Excel**  
+6. **Balanced Student Groups (Excel)**  
 Created balanced student groups based on performance and communication metrics to improve collaboration dynamics.  
-**Repo link:** [Insert link here]
+**Repo link:** https://github.com/MantejSingh333/Balanced-Student-Groups-Excel
 
 7. **Data Analysis Using Python in Microsoft Fabric**  
 Performed end-to-end data cleaning, analysis, and transformation in a cloud-based Microsoft Fabric environment.  
