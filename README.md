@@ -1,4 +1,4 @@
-# My Data Analytics Portfolio
+# Data Analytics Portfolio
 
 Welcome to my GitHub portfolio! Here’s a collection of my data analytics projects, demonstrating skills in **Power BI, SQL, Python, Excel, and Neo4j**.  
 
