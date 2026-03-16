@@ -25,7 +25,7 @@ Cleaned and processed customer product data in Python, then analyzed and visuali
 **Repo link:** https://github.com/MantejSingh333/Customer-Cost-Analysis-Visualization-Python
 
 5. **Cost Estimation Model (Excel)**  
-Forecasted operational costs for an AI-powered online writing tool using Excel financial modeling.  
+Developed an Excel-based cost estimation model for an AI-powered online writing tool, forecasting monthly operational costs based on student usage, session frequency, and activity complexity across Year 6–8 levels in New Zealand. 
 **Repo link:** https://github.com/MantejSingh333/Cost-Estimation-Model-Excel
 
 6. **Balanced Student Groups (Excel)**  
