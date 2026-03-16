@@ -9,7 +9,7 @@ Click on each project to explore the full repo and see the work in detail.
 ## Projects
 
 1. **Supermarket Product Deduplication & Knowledge Graph (Neo4j)**  
-End-to-end project cleaning, deduplicating, and modeling supermarket product data for cross-store product comparison.  
+Built an end-to-end data pipeline to clean, standardize, and deduplicate supermarket product data, modeling it into a Neo4j knowledge graph that enables unified product search and cross-retailer price comparison across multiple New Zealand supermarkets.
 **Repo link:** https://github.com/MantejSingh333/Supermarket-Product-Deduplication-Knowledge-Graph-Neo4j
 
 2. **E-Commerce Analysis (Power BI)**  
