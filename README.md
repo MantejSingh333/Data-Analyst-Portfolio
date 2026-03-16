@@ -33,7 +33,7 @@ Developed an Excel-based analysis to group students using performance metrics an
 **Repo link:** https://github.com/MantejSingh333/Balanced-Student-Groups-Excel
 
 7. **Data Analysis in Microsoft Fabric (Python)**  
-Performed end-to-end data cleaning, analysis, and transformation in a cloud-based Microsoft Fabric environment.  
+Developed a Python-based analytics workflow in Microsoft Fabric, performing data cleaning, transformation, and exploratory data analysis (EDA) in a cloud environment.
 **Repo link:** https://github.com/MantejSingh333/Data-Analysis-in-Microsoft-Fabric-Python
 
 8. **Data Scraping Projects (Python)**  
