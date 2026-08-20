@@ -24,22 +24,6 @@ Analyzed video game revenue data with SQL, leveraging joins and window functions
 Cleaned and processed customer product data in Python, then analyzed and visualized cost, revenue, and labor trends over time using Pandas, Matplotlib, and Seaborn to uncover year-over-year patterns.
 **Repo link:** https://github.com/MantejSingh333/Customer-Cost-Analysis-Visualization-Python
 
-5. **Cost Estimation Model (Excel)**  
-Developed an Excel-based cost estimation model for an AI-powered online writing tool, forecasting monthly operational costs based on student usage, session frequency, and activity complexity across Year 6–8 levels in New Zealand. 
-**Repo link:** https://github.com/MantejSingh333/Cost-Estimation-Model-Excel
-
-6. **Balanced Student Groups (Excel)**  
-Developed an Excel-based analysis to group students using performance metrics, creating balanced teams that improve collaboration while anonymizing sensitive data.
-**Repo link:** https://github.com/MantejSingh333/Balanced-Student-Groups-Excel
-
-7. **Data Analysis in Microsoft Fabric (Python)**  
-Developed a Python-based analytics workflow in Microsoft Fabric, performing data cleaning, transformation, and exploratory data analysis (EDA) in a cloud environment.
-**Repo link:** https://github.com/MantejSingh333/Data-Analysis-in-Microsoft-Fabric-Python
-
-8. **Data Scraping (Python)**  
-Developed a Python project to scrape web and API data, cleaning and structuring it with Pandas, and exporting datasets for further analysis.
-**Repo link:** https://github.com/MantejSingh333/Data-Scraping-Python
-
 ---
 
 ## Contact
